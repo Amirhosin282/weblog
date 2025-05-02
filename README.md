@@ -1,6 +1,4 @@
-Here’s a clean, professional English version of your `README.md` for your Django learning project:
 
----
 
 # Simple Django Blog - Learning Project 🎓  
 
